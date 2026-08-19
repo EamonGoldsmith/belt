@@ -1,0 +1,9 @@
+{
+	"name": "Eamon",
+	"string": "Hello",
+	"primitive": true,
+	"list": [ "sure", "this", "is", false, "list" ],
+	"object": {
+		"name": "child"
+	}
+}
